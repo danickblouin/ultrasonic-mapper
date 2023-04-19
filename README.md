@@ -8,7 +8,6 @@ The idea is pretty simple, I would mount the sensor on top of a servo motor and 
 
 ### First version
 
-![First version]()
 <img alt="First version" src="assets/firstversion.jpg" width="250"/>
 
 In the first version, I hot glued the servo motor to my tripod and did the same thing for the sensor on a piece of cardboard.
